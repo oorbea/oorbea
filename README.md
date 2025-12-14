@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a task manager application<br>🌱 I’m currently learning AI development<br>💬 Ask me about anything you want to know about me
+💬 Ask me about anything you want to know about me
 
 
 ## 🌐 Socials:
